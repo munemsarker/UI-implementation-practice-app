@@ -2,9 +2,9 @@
 
 a sub categorized mobile app which supports to buy now and do work aption
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="./ui.png" width="250">
 
 
 If you face any problem with this project or repositories just contact with me on 
